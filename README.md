@@ -27,3 +27,4 @@ This project provides a comprehensive analysis of sales data for a Food & Bevera
 * `/SQL_Scripts`: Queries for data cleaning and preparation.
 * `/Data`: Raw dataset files (CSV/Excel).
 * `Sales_Analysis.pbix`: The main Power BI dashboard file.
+
